@@ -1,0 +1,41 @@
+kodeProduk,namaProduk,kategoriProduk,hargaProduk,stokProduk
+MK01,Matte Lipstick Ruby,Makeup,150000,25
+MK02,Liquid Foundation Ivory,Makeup,220000,15
+MK03,Waterproof Mascara Black,Makeup,120000,30
+MK04,Eyebrow Pencil Dark Brown,Makeup,85000,40
+MK05,Blush On Peach Glow,Makeup,110000,20
+MK06,Loose Powder Translucent,Makeup,95000,25
+MK07,Eyeliner Pen Waterproof,Makeup,105000,35
+MK08,Eyeshadow Palette Nude,Makeup,180000,18
+MK09,Highlighter Glow Beam,Makeup,130000,22
+MK10,Tinted Lip Balm Cherry,Makeup,75000,45
+SK01,Hydrating Toner 150ml,Skincare,180000,18
+SK02,Brightening Serum 30ml,Skincare,250000,12
+SK03,Acne Spot Gel 15g,Skincare,95000,35
+SK04,Sunscreen SPF 50 PA+,Skincare,135000,28
+SK05,Gentle Facial Wash,Skincare,90000,50
+SK06,Exfoliating Toner AHA/BHA,Skincare,195000,15
+SK07,Sheet Mask Aloe Vera,Skincare,20000,60
+SK08,Clay Mask Green Tea,Skincare,115000,25
+SK09,Eye Cream Anti Aging,Skincare,210000,10
+SK10,Sleeping Mask Water Bomb,Skincare,165000,20
+BK01,Body Lotion Vanilla Musk,Bodycare,125000,22
+BK02,Exfoliating Body Scrub,Bodycare,140000,15
+BK03,Nourishing Shower Gel,Bodycare,105000,30
+BK04,Hand Cream Shea Butter,Bodycare,65000,45
+BK05,Relaxing Massage Oil,Bodycare,175000,10
+BK06,Whitening Body Serum,Bodycare,155000,25
+BK07,Underarm Scrub Cream,Bodycare,85000,30
+BK08,Foot Care Cream Mint,Bodycare,55000,40
+BK09,Deodorant Spray Fresh,Bodycare,45000,50
+BK10,Body Mist Rose Water,Bodycare,95000,35
+HK01,Keratin Smooth Shampoo,Haircare,160000,25
+HK02,Deep Repair Hair Mask,Haircare,190000,14
+HK03,Argan Hair Serum 50ml,Haircare,210000,19
+HK04,Scalp Tonic Anti Dandruff,Haircare,145000,22
+HK05,Hair Vitamin Spray,Haircare,75000,38
+HK06,Volumizing Conditioner,Haircare,150000,20
+HK07,Hair Scalp Scrub,Haircare,125000,18
+HK08,Heat Protectant Spray,Haircare,135000,25
+HK09,Dry Shampoo Refresh,Haircare,110000,30
+HK10,Hair Growth Tonic,Haircare,225000,12
